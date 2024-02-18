@@ -1,0 +1,22 @@
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img {
+    border-radius: 100%;
+    height: 100px;
+}
+
+h3 {
+    margin-bottom: 10px;
+}
+
+
+h4 {
+    color: var(--active-color);
+    margin-top: 0;
+    margin-bottom: 7px;
+}
+

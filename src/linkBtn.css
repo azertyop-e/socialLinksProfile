@@ -1,0 +1,21 @@
+.LinkList {
+    display: block;
+}
+
+.linkBtn {
+    background-color: var(--btn-bg);
+    margin: 1rem;
+    padding: 20px 120px;
+    border-radius: 1vh;
+}
+
+.linkBtn a {
+    text-decoration: none;
+    color: var(--text-color);
+}
+
+.linkBtn:hover {
+    background-color: var(--active-color);
+    color: red;
+    cursor: pointer;
+}
